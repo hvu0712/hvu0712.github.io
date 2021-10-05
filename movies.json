@@ -1,0 +1,11 @@
+{
+    "title": "Lap trinh co ban",
+    "decription": "Khoa hoc gioi thieu react native co ban",
+    "movies":
+    [
+        {"id":"1","title":"Gioi thieu ve react native","releaseYear":"2018"},
+        {"id":"2","title":"Props va state","releaseYear":"2019"},
+        {"id":"3","title":"Lam viec voi json","releaseYear":"2020"},
+        {"id":"4","title":"Trao doi du lieu client server","releaseYear":"2021"}
+    ]
+}
